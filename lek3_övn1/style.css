@@ -1,0 +1,37 @@
+<!--
+Namn: Melker Blomqvist
+Klass: Te23E
+-->
+
+body{
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+}
+
+h1{
+    color:#ab390f;
+    background-color: lightblue;
+    text-align: right;
+}
+ul{
+    background-color: #538750;
+}
+a{
+    color: #e80c72;
+}
+a:hover{
+    color:indigo;
+    background-color: aqua;
+}
+a:active{
+    color: greenyellow;
+    background-color: tomato;
+}
+img {
+    height:400px ;
+    width:400px ;
+}
+body {
+    background-image: url("./img/moorish-pattern_644416-582.jpg");
+    display: flex;
+    flex-direction: column;
+}
